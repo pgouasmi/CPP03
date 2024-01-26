@@ -6,7 +6,7 @@
 /*   By: pgouasmi <pgouasmi@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/16 16:01:03 by pgouasmi          #+#    #+#             */
-/*   Updated: 2024/01/16 18:41:00 by pgouasmi         ###   ########.fr       */
+/*   Updated: 2024/01/25 16:13:48 by pgouasmi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -32,7 +32,7 @@ int	main()
 	Bot.attack("mechant");
 	Bot.attack("mechant");
 	Bot.attack("mechant");
-	Bot.attack("mechant");
+	Scav.attack("mechant");
 	Bot.attack("mechant");
 	Bot.attack("mechant");
 	Bot.attack("mechant");

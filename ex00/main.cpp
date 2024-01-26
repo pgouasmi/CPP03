@@ -6,7 +6,7 @@
 /*   By: pgouasmi <pgouasmi@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/16 16:01:03 by pgouasmi          #+#    #+#             */
-/*   Updated: 2024/01/16 17:14:38 by pgouasmi         ###   ########.fr       */
+/*   Updated: 2024/01/25 16:40:59 by pgouasmi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -34,6 +34,7 @@ int	main()
 	Bot.attack("mechant");
 	Bot.attack("mechant");
 	Bot.beRepaired(100);
+	Bot.takeDamage(10000000);
 	Bot.takeDamage(10000000);
 
 	return (0);
